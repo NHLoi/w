@@ -1,0 +1,3 @@
+(__dirname) là biến có sẵn và là đường đẫn tuyệt đối từ ổ đĩa tới file chứa nó
+require là câu lệnh có sẵn để gọi file (lấy dữ liệu từ file khác gắn vào biến)
+exports có thể xuất ra nhiều kiểu giá trị: số, ký tự, có thể là object, function 
